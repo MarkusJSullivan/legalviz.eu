@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "better-sqlite3": "^12.11.1",
-    "dompurify": "^3.4.12",
+    "dompurify": "^3.4.17",
     "framer-motion": "^12.23.24",
     "lucide-react": "^0.552.0",
     "react": "^19.1.1",
@@ -46,10 +46,10 @@
     "fake-indexeddb": "^6.2.5",
     "globals": "^16.4.0",
     "jsdom": "^29.0.0",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.33",
     "tailwindcss": "^4.1.16",
-    "vite": "^7.1.7",
+    "vite": "^7.3.8",
     "vite-plugin-pwa": "^1.2.0",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   }
 }
